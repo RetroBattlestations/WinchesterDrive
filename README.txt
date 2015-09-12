@@ -4,9 +4,21 @@ use sprites, or in the case of the Apple II, the hi-res shape table
 routines. Graphics are not necessarily required, and the program could
 be ported to a system that only uses text or character graphics.
 
-In this game you are exploring a mansion that is on Winchester
-Drive. The goal is to find the hidden treasure and
-escape. Unfortunately at this time the game is somewhat unfinished.
+  There's an old mansion out on Winchester Drive that you've heard
+  many stories about. It's filled with many rooms that seem to be
+  connected to each other completely at random. The design of the
+  place is very bizarre. Some rooms even connect to each other through
+  one-way trap doors, with no way back! You've heard stories that the
+  house reconfigures itself as you walk through and that when you try
+  to come back to a room, it suddenly re-arranges and a new room
+  appears where you just came from.
+
+  People have long rumored that the place is haunted, but they think
+  hidden somewhere inside is the wealth of the last owner. It could be
+  jewels, it could be money, it could be old stock
+  certificates. No-one has ever found it! Maybe it's just a box full
+  of worthless Confederate money. You have to know and you've found
+  your way inside and you're going to search every room you can!
 
 === Typing Tips ===
 When typing the program in you can leave off any lines which begin
